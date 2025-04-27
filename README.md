@@ -58,7 +58,7 @@ The application displays a calendar that shows people who are on leave for parti
 
 1. Scroll between months (particularly from May to June or December to January)
 2. Use the calendar button by the header left to navigate to the current month
-3. Observe that only the month header changes and the calendar month can only be changed by swipping
+3. Observe that only the month header changes and the calendar month can only be changed by swiping
 
 ## Technical Details
 
